@@ -7,11 +7,9 @@ Um site simples para gerenciar seus favoritos, utilizando HTML5, Tailwind CSS e 
 Clone o repositório:
 git clone https://github.com/LucasVer17/bookmark-website.git
 
-Instale as dependências do Tailwind:
-npm install -D tailwindcss
+Instale as dependências: npm install
 
-Compile o CSS com o comando:
-npm run watch
+Rode o projeto: npm run watch
 
 Abra o arquivo index.html
 
