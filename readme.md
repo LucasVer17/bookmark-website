@@ -18,4 +18,4 @@ npm run watch
 
 Abra o arquivo index.html
 
-![Alt text](images/bookmark.png)
+
