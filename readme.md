@@ -5,7 +5,7 @@ Um site simples para gerenciar seus favoritos, utilizando HTML5, Tailwind CSS e 
 ## Como rodar
 
 Clone o repositório:
-git clone https://github.com/seu-usuario/bookmark-website.git
+git clone https://github.com/LucasVer17/bookmark-website.git
 
 Instale as dependências do Tailwind:
 npm install -D tailwindcss
