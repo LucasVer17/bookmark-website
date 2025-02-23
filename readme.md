@@ -10,9 +10,6 @@ git clone https://github.com/LucasVer17/bookmark-website.git
 Instale as dependências do Tailwind:
 npm install -D tailwindcss
 
-Crie o arquivo de configuração (se necessário):
-npx tailwindcss init
-
 Compile o CSS com o comando:
 npm run watch
 
